@@ -1,0 +1,7 @@
+organization=ldanielabe-github
+projectKey=ldanielabe_YourTaxi
+serverUrl=https://sonarcloud.io
+serverVersion=7.8.0.23279
+dashboardUrl=https://sonarcloud.io/dashboard?id=ldanielabe_YourTaxi
+ceTaskId=AWna53dhBqjuEZ89tU1L
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWna53dhBqjuEZ89tU1L
